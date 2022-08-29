@@ -1,0 +1,17 @@
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\bin\Debug\FA2_project.exe.config
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\bin\Debug\FA2_project.exe
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\bin\Debug\FA2_project.pdb
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.csprojAssemblyReference.cache
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.Properties.Resources.resources
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.csproj.GenerateResource.cache
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.exe
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.pdb
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.LoginForm.resources
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.Register.resources
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.csproj.CoreCompileInputs.cache
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.NGO_Profile.resources
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.Admin_Profile.resources
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.Donor_Profile.resources
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\FA2_project.LoginForm.aa-DJ.resources
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\bin\Debug\aa-DJ\FA2_project.resources.dll
+D:\CTU\2021\SDPRG521\FA2\FA2_project\FA2_project\obj\Debug\aa-DJ\FA2_project.resources.dll
